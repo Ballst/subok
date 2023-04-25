@@ -1,2 +1,0 @@
-# subok
-test kunyari
